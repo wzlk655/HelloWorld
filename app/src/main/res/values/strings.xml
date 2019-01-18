@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button">Button</string>
+    <string name="naotou">挠头表情</string>
+    <string name="i_love_tik_tok">I love tik tok!</string>
+    <string name="kaifashuai">开发者最帅！</string>
+</resources>
